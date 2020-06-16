@@ -1,0 +1,13 @@
+{
+  "bag": "default",
+  "revision": "2",
+  "version": "0.0.4",
+  "type": "application/json",
+  "title": "$:/plugins/joshuafontany/bookmarks",
+  "plugin-type": "plugin",
+  "name": "Tiddlywiki Bookmarks",
+  "modified": "20200615000000000",
+  "description": "Use Tiddlywiki as a Bookmark Manager",
+  "dependents": "",
+  "created": "20200615000000000"
+}
